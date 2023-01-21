@@ -1,0 +1,2 @@
+#!C:\E-commerce\zipcode\NEW API\mail_Sender\zipcode\.venv\Scripts\python.exe
+from Mypackage import Myshell
